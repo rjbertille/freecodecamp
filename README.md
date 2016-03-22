@@ -1,0 +1,2 @@
+# freecodecamp
+javascript code
