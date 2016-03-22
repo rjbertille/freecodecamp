@@ -6,5 +6,5 @@ var percentage = function(num, denom) {
 var p1 = percentage(23, 30);
 
 The computer runs the percentage function with 23 and 30 substituted in for num and denom.
-The result is stored in the variable p1.
+The result is stored in the variable.
 
