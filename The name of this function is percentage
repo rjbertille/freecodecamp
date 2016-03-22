@@ -1,0 +1,10 @@
+var percentage = function(num, denom) {
+    var result = (num / denom) * 100;
+    return result;
+}
+
+var p1 = percentage(23, 30);
+
+The computer runs the percentage function with 23 and 30 substituted in for num and denom.
+The result is stored in the variable p1.
+
